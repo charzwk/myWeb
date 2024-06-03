@@ -1,0 +1,17 @@
+
+.container{
+    display: grid;
+    grid-template-columns: 7fr auto;
+    min-height: 300px;
+
+}
+.leftside{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.rightside{
+    display: grid;
+    padding: 0 30px ;
+    align-items: center;
+}
